@@ -1,2 +1,11 @@
 # SystemA-D
-Work accomplished in Systems Analysis and Design CS-255.
+
+- Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+- What did you do particularly well?
+- If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+- How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
+- How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+
+-- The DriverPass project was created for a small business that needed to have a way of reaching their clients online by providing training material, practice tests, and on-the-road driving experience in order to help them pass their DMV liscencing exams. For this project, I was able to pick out the needs of the client well during the gathering requirements step. I was able to look at the interview notes and understand what was needed for this project to come together properly. I think the one thing I would like to have done better would be the UML class diagram that covered the entire system. I think with some more time and iterations, it could have encompased more detail. I would like to have placed more of the methods for each of the classes. When reading the information provided from DriverPass, I looked at each section of information and broke it down into small peices that could be turning into something like a story point. After breaking each of them down, I revisited the notes and checked for anything that was missing. I set these story point type peices into sections based on relation and how similar they were. Breaking each bit of information down from the client is important because it enables you to create software that will provide maximum value to the client. This is part of creating software that will help our client grow over time. Creating story board point, creating timelines line burn up or burn down charts, and working together with clear communication allows for better, and often quicker, product development. For working on projects in the future, I think I would get more practice in with Lucid Chart. It has powerful charting capabilities that I only scratched the surface with. I would also like to work with the iterative portion of information gathering through multiple sources. 
+  
+
